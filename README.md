@@ -2,6 +2,8 @@
 
 A fully-secured, optimized, and automated-tested Task Management Backend API built using **Django REST Framework (DRF)** and **Python**. This project follows professional industry standards, implementing JWT Authentication, Query Optimization, and robust Unit Testing.
 
+🎯 **Live Demo:** [Interactive Swagger UI Documentation](https://protask-django-api.onrender.com/swagger/)
+
 ---
 
 ## 🔥 Core Features & Key Highlights
@@ -31,5 +33,5 @@ Follow these steps to set up and run the project locally on your system:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/protask-django-api.git](https://github.com/YOUR_USERNAME/protask-django-api.git)
+git clone [https://github.com/vishalyadav53/protask-django-api.git](https://github.com/vishalyadav53/protask-django-api.git)
 cd protask-django-api
